@@ -5,6 +5,10 @@ MacDevNote Mac开发环境配置笔记
 
 ## 需要的软件
 
+### XCode
+
+自带C++编译器
+
 ### VS Code + C/C++ Intelligent
 
 ### Typora
